@@ -15,8 +15,8 @@ from selenium.common.exceptions import StaleElementReferenceException, TimeoutEx
 
 
 # LinkedIn Credentials (replace with yours)
-USERNAME = 'Your Email'
-PASSWORD = 'Password'
+USERNAME = 's.m.sahal786@outlook.com'
+PASSWORD = '8662272425'
 
 # Message template
 MESSAGE_TEMPLATE = ("Hi {name},\n\n"
